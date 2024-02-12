@@ -15,7 +15,7 @@ class CustomField extends StatelessWidget {
         Padding(
           padding: const EdgeInsets.all(8.0),
           child: Container(
-            height: MediaQuery.of(context).size.height*0.06,
+            height: MediaQuery.of(context).size.height*0.065,
             width: MediaQuery.of(context).size.width*0.8,
             decoration: BoxDecoration(
                 color: Colors.grey.shade200,
